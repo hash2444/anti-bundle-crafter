@@ -4,11 +4,11 @@ Everything you need to get **Anti-Bundle Crafter** running, step by step. If som
 
 ## What you need
 
-- Minecraft **Bedrock Edition** 1.21.50 or newer (Windows, phone, console or a Bedrock server)
+- Minecraft **Bedrock Edition** 1.21.110 or newer (Windows, phone, console or a Bedrock server)
 
 ## Install and start
 
-1. Download **`Anti-Bundle-Crafter-v1.0.0.mcaddon`** from the [Releases page](../../releases) - or directly from this repository.
+1. Download **`Anti-Bundle-Crafter-v1.0.1.mcaddon`** from the [Releases page](../../releases) - or directly from this repository.
 2. Open the file (double-click on Windows, or tap it on a phone/tablet). Minecraft starts and shows *Import started* / *Import successful*.
 3. Create a new world or edit an existing one and open **Add-Ons**.
 4. Under **Behavior Packs** activate this add-on's pack, then under **Resource Packs** activate the matching resource pack.
