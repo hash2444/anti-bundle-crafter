@@ -2,6 +2,8 @@
 
 > Lock any item ID: it disappears from inventories, containers and drops - controlled from an in-game menu.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
 A Bedrock add-on (behavior + resource pack) with a command-driven item lock system. Locked items are removed from player inventories, equipment slots, every nearby container (chest, hopper, dropper, dispenser, barrel, shulker, crafter, brewing stand, furnace, ...) and dropped item entities - both by tick scan and by instant event hooks.
 
 ## What it does
@@ -42,6 +44,8 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 ## Notes
 
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+
+![preview](anti-bundle-crafter.png)
 
 ---
 
